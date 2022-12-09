@@ -37,7 +37,6 @@ function Form() {
       </div>
     );
   });
-
   return (
     <div>
       <form onSubmit={handleSubmit}>
